@@ -51,7 +51,7 @@ User can enter desire county name and can detect the result accordingly. For exa
 ![image](https://user-images.githubusercontent.com/107137215/187266313-9c06f816-a579-4fc3-bf2e-57b6f65f02af.png)
 
 
-### Filter by shape
+### Filter by Shape
 
 User can enter desire shape and can obtain the result accordingly.
 
@@ -62,7 +62,11 @@ User can enter desire shape and can obtain the result accordingly.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -> It is very difficult for the users to which parameter to put in order to find the result which is one of the drawback of this webpage design. For example, to find 
    a particular city, use have to go through the entire table in oreder to find the analysis.
+   
+   
 -> A way to address this would be to present drop-down lists including all filter values in place of the input fields. Each list would need to update after a parameter      is selected in any filter.
+
+
 -> It is also a good idea if there is reset button for the filter. It should be located below the last filter button.
 
 
