@@ -18,7 +18,7 @@ The deployed webpage is accessible at
 
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 
-![image](https://user-images.githubusercontent.com/107137215/187006038-a3aaae6f-7bf5-42c2-8092-00d6213c4430.png)
+
 
 
 #### Filtering by Date event
